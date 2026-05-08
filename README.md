@@ -41,6 +41,8 @@ Tras el saneamiento y análisis de **más de 148.000 registros de implicados** y
 * **Mecanismo de colisión:** Las colisiones fronto-laterales y alcances representan el 50% del total de los registros analizados.
 * **Escalabilidad:** El modelo procesa >50.000 registros, permitiendo la integración de futuros datos anuales para monitorizar la evolución de la seguridad vial en Madrid.
 
+![Texto alternativo](Dashboard/Dash_Accidentes_Madrid.gif)
+
 ### 🔄 Próximos Pasos
 * **Optimización de Recursos:** Se propone que las autoridades locales dirijan sus recursos de seguridad y vigilancia hacia las franjas horarias de madrugada y distritos con mayor ratio de riesgo (como Puente de Vallecas y Carabanchel), en lugar de basarse únicamente en volúmenes absolutos.
 * **Campañas de Concienciación:** Se propone desarrollar campañas específicas orientadas a los colectivos de mayor riesgo, en particular, conductores jóvenes y usuarios de motocicletas.
